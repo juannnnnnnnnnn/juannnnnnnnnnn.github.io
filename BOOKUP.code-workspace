@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../challengue-disneyplus/dist/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BOOKUP"
+	}
+}
